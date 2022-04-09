@@ -19,7 +19,6 @@ h2 {
 }
 
 p {
-    color: gray;
     font-family: verdana;
     font-size: 21px;
     text-align: center;
@@ -35,6 +34,10 @@ p {
 .images-style {
     justify-content: center;
     max-width: 100%;
+}
+
+main > p {
+    color: gray;
 }
 
 footer > p {

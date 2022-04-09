@@ -35,10 +35,11 @@ p {
     max-width: 100%;
 }
 
-main > p {
+.normal-p {
     color: gray;
 }
 
 footer > p {
     text-align: right;
+    color: gray;
 }
